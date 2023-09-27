@@ -1,4 +1,5 @@
 -- by pr0phecydc
+-- full source
 -- dont skid
 
 local OrangeX = Instance.new("ScreenGui")
